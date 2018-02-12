@@ -1,0 +1,52 @@
+body{
+background:lightgrey;
+
+}
+
+.card{
+width: 50%;
+height:20%;
+background:#fff;
+position:absolute;
+top:85%;
+left:25%;
+border-radius:50%;
+}
+
+//.container{
+  height:10px;
+}
+
+h1 {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  width: 100%;
+  font-family: 'Bungee Inline', cursive;
+  font-size: 50px;
+ }
+
+ h2 {
+   position: absolute;
+   top: 252px;
+   left: 202px;
+   width: 100%;
+   font-family: 'Bungee Inline', cursive;
+   font-size: 20px;
+  }
+.btn{
+  height: auto;
+  width: 400px;
+  border-radius: 40%;
+  border:none;
+  position: absolute;
+  top:150px;
+  left:150px;
+  background:#fff;
+  font-family: 'Bungee Inline', cursive;
+  font-size: 20px;
+}
+
+.quote{
+
+}
